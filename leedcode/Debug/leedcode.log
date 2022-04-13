@@ -1,0 +1,5 @@
+﻿  回温检测.cpp
+d:\数据结构\leedcode\leedcode\回温检测.cpp(9): warning C4018: “<”: 有符号/无符号不匹配
+d:\数据结构\leedcode\leedcode\回温检测.cpp(23): warning C4018: “<”: 有符号/无符号不匹配
+d:\数据结构\leedcode\leedcode\回温检测.cpp(39): warning C4326: “main”的返回类型应为“int”而非“void”
+  leedcode.vcxproj -> D:\数据结构\leedcode\Debug\leedcode.exe

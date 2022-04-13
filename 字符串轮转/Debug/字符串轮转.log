@@ -1,0 +1,3 @@
+﻿  源.cpp
+d:\数据结构\leedcode\字符串轮转\源.cpp(13): warning C4326: “main”的返回类型应为“int”而非“void”
+  字符串轮转.vcxproj -> D:\数据结构\leedcode\Debug\字符串轮转.exe
